@@ -1,0 +1,20 @@
+IMPORT base
+PROGRAM prueba
+MAIN
+INT num
+INT num1
+INT num2
+PRINT num
+num=10
+PRINT num
+FOR (num=0 ; num>3 ; num++)
+	PRINT num
+WHILE (num!=0)
+	PRINT num
+	num--
+IF (num==1)
+	PRINT numero uno es valido
+ELSE 
+	num=1
+	PRINT num
+END
